@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Airbnb Clone
+
+This is an on-going project where I use Next.js 13, Tailwind, Prisma, MongoDB, and NextAuth.
 
 ## Getting Started
 
