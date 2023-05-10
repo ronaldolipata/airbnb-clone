@@ -1,6 +1,6 @@
 # Airbnb Clone
 
-This is an on-going project where I use Next.js 13, Tailwind, Prisma, MongoDB, and NextAuth.
+This is an on-going project where I use Next.js 13, TypeScript, Tailwind, Prisma, MongoDB, and NextAuth.
 
 ## Getting Started
 
